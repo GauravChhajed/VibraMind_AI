@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 851 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(SKF 6205-2RS Deep Groove Ball Bearing Maintenance and Engineering Manual) Tj T*
+(Section 1: Geometric Specifications and Internal Clearance) Tj T*
+(The SKF 6205-2RS single-row deep groove ball bearing has a bore diameter of 25.0 mm,) Tj T*
+(an outside diameter of 52.0 mm, and a width of 15.0 mm.) Tj T*
+(Internal geometry: N = 9 rolling elements \(balls\), ball diameter d = 7.94 mm,) Tj T*
+(pitch diameter D = 39.04 mm, and nominal contact angle phi = 0.0 degrees.) Tj T*
+(Standard radial internal clearance \(CN\) before mounting is 5 to 20 micrometers,) Tj T*
+(while C3 radial internal clearance before mounting is 13 to 28 micrometers.) Tj T*
+(At a shaft speed of 1797 RPM \(29.95 Hz\), the theoretical defect frequencies are:) Tj T*
+(FTF = 11.93 Hz, BPFO = 107.36 Hz, BPFI = 162.19 Hz, and BSF = 70.58 Hz.) Tj T*
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 747 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(Section 2: Lubrication Intervals, Grease Selection, and Mounting Fits) Tj T*
+(For continuous industrial operation at 1500 to 1800 RPM under moderate radial load) Tj T*
+(and bearing housing temperatures below 70 degrees C, the recommended relubrication) Tj T*
+(interval for open/shielded 6205 bearings is 4500 operating hours using lithium-complex) Tj T*
+(ISO VG 100 mineral grease \(fill 30 to 35 percent of free internal space\).) Tj T*
+(For sealed 6205-2RS bearings, inspect seals every 2000 hours for grease purging or) Tj T*
+(contaminant ingress. Shaft fit tolerance for rotating inner ring loads should be k5) Tj T*
+(or m5, and housing bore tolerance for stationary outer ring loads should be H7 or J7.) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 962 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td
+15 TL
+(Section 3: Bearing Fault Progression Stages and Maintenance Actions) Tj T*
+(Stage 1 \(Subsurface micro-spalling\): ultrasonic/spike energy in 20 to 60 kHz band;) Tj T*
+(normal time-domain RMS and kurtosis near 3.0. Action: continue normal monitoring.) Tj T*
+(Stage 2 \(Incipient raceway spall\): ringing of bearing/housing natural frequencies) Tj T*
+(\(typically 1.5 to 5 kHz\) modulated at BPFO, BPFI, or BSF; kurtosis rises above 4.0) Tj T*
+(and crest factor exceeds 5.0. Action: check lubrication and shorten inspection interval) Tj T*
+(to 2 weeks.) Tj T*
+(Stage 3 \(Discrete fault harmonics in baseband FFT\): fundamental BPFO/BPFI/BSF and) Tj T*
+(harmonics \(1x, 2x, 3x\) with sidebands spaced at shaft speed \(BPFI\) or FTF \(BSF\)) Tj T*
+(become visible in the baseband FFT spectrum. Action: schedule bearing replacement) Tj T*
+(within the next planned maintenance window and perform lubricant wear debris analysis.) Tj T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+9 0 obj
+<< /Type /Catalog /Pages 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000981 00000 n 
+0000001107 00000 n 
+0000001905 00000 n 
+0000002031 00000 n 
+0000003044 00000 n 
+0000003170 00000 n 
+0000003239 00000 n 
+trailer
+<< /Size 10 /Root 9 0 R >>
+startxref
+3288
+%%EOF
